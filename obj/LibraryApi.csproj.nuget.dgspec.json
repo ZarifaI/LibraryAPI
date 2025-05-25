@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zarifaibrahimzada/LibraryApi/LibraryApi.csproj": {}
+    "/Users/zarifaibrahimzada/library-fullstack/LibraryApi/LibraryApi.csproj": {}
   },
   "projects": {
-    "/Users/zarifaibrahimzada/LibraryApi/LibraryApi.csproj": {
+    "/Users/zarifaibrahimzada/library-fullstack/LibraryApi/LibraryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zarifaibrahimzada/LibraryApi/LibraryApi.csproj",
+        "projectUniqueName": "/Users/zarifaibrahimzada/library-fullstack/LibraryApi/LibraryApi.csproj",
         "projectName": "LibraryApi",
-        "projectPath": "/Users/zarifaibrahimzada/LibraryApi/LibraryApi.csproj",
+        "projectPath": "/Users/zarifaibrahimzada/library-fullstack/LibraryApi/LibraryApi.csproj",
         "packagesPath": "/Users/zarifaibrahimzada/.nuget/packages/",
-        "outputPath": "/Users/zarifaibrahimzada/LibraryApi/obj/",
+        "outputPath": "/Users/zarifaibrahimzada/library-fullstack/LibraryApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zarifaibrahimzada/.nuget/NuGet/NuGet.Config"
