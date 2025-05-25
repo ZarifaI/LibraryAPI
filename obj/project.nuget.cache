@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "txtukgsASUmAxNoENOSHadcpziVCJ+2DPmjuOAA6ytBB6Tkc68l6w+dByo7x2O46/E1pPefi/ZRemrFK45DRHw==",
+  "success": true,
+  "projectFilePath": "/Users/zarifaibrahimzada/LibraryApi/LibraryApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/zarifaibrahimzada/.nuget/packages/microsoft.aspnetcore.openapi/8.0.13/microsoft.aspnetcore.openapi.8.0.13.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/zarifaibrahimzada/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
